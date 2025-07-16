@@ -4,7 +4,7 @@ Power BI and SQL-based dashboard to analyze and visualize the main factors behin
 
 <img width="1392" height="900" alt="image" src="https://github.com/user-attachments/assets/f9ddff9e-b4a4-4d37-a442-02ed11fac752" />
 
-## DB_Schema/db_schema.png
+## DB_Schema
 <img width="914" height="796" alt="image" src="https://github.com/user-attachments/assets/5c98fbca-429d-49b8-ac8f-6bee9e6af1fd" />
 
 
@@ -33,7 +33,7 @@ Power BI and SQL-based dashboard to analyze and visualize the main factors behin
 
 ## Usage
 
-Open `PowerBI/dashboard.pbix` for full interactive dashboard.
+Open `ANANAY_RCA.pbix` for full interactive dashboard.
 
 Review `DB_Schema/db_schema.png` for the backend structure.
 
