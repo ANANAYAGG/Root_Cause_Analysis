@@ -2,7 +2,7 @@
 
 Power BI and SQL-based dashboard to analyze and visualize the main factors behind changes in KPIs such as Sales, Quantity, Profit Margin, and Average Discount through Decomposition Diagram
 
-<img width="1374" height="936" alt="image" src="https://github.com/user-attachments/assets/137af50c-0c92-4854-ae08-1c7f5591720d" />
+<img width="1392" height="900" alt="image" src="https://github.com/user-attachments/assets/f9ddff9e-b4a4-4d37-a442-02ed11fac752" />
 
 ## DB_Schema/db_schema.png
 <img width="914" height="796" alt="image" src="https://github.com/user-attachments/assets/5c98fbca-429d-49b8-ac8f-6bee9e6af1fd" />
